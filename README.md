@@ -1,4 +1,4 @@
-<img src='images/딸기.png' with=300 height=200> </img> ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=WELCOME!&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=WELCOME!&animation=blink)
 
 
 
