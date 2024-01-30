@@ -2,7 +2,7 @@
 
 <h3>💻Preparing Web Back-end Engineer💻</h3>
 <br />
-✉️contact : n980805@gmail.com
+✉️contact : bbbangsomi@gmail.com
 
 #
 
