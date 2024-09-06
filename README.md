@@ -3,7 +3,7 @@
 ### 🙋🏻 About Me
 
 #### 💻Preparing Web Back-end Engineer
-#### ✉️contact : iamdevsom@gmail.com
+#### ✉️contact : bbbangsomi@gmail.com
 
 #
 
